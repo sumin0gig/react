@@ -1,0 +1,35 @@
+*{margin: 0; padding: 0; box-sizing: border-box; vertical-align: middle;}
+.todo{
+	width: 80%;
+	max-width: 800px;
+	margin: 0 auto;
+}
+.header{
+	background: linear-gradient(to right,lightblue,lightpink);
+	height: 140px;
+	padding-top: 30px;
+}
+.header h1{
+	color: #fff;
+	font-size: 32px;
+}
+.header input{
+	width: 70%;
+	height: 40px;
+	border-radius: 20px;
+	border: none;
+	outline: none;
+	padding-left: 30px;
+}
+.header button{
+	height: 40px;
+	width: 40px;
+	border-radius: 50%;
+	border: none;
+	outline: none;
+	background: #fff;
+	color: lightpink;
+	font-size: 24px;
+	font-weight: bold;
+	margin-left: 8px;
+}
